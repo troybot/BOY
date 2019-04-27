@@ -20,7 +20,7 @@
 
 # <p align="center"> كود تنصيب السورس 🖇
 
-<br>` git clone https://github.com/bobe77/bobe.git;cd bobe;chmod +x ins;./ins `<br>
+<br>` git clone https://github.com/troybot/BOY.git;cd BOY;chmod +x ins;./ins `<br>
 
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس 
@@ -35,7 +35,7 @@
  <p align="center"> :: كود تشغيل السورس | لتشغيل السورس يدوي 
  
 افتح ترمنال جديد ثم تدخل الكود الاتي <br>
- <br>  `./bobe/run`
+ <br>  `./BOY/run`
 
 #  💬¦ للمشاكل والاسفسار والاقتراحات :
   
